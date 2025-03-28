@@ -1,1 +1,5 @@
-"# sple-aisco" 
+# SPLE - AISCO
+
+## Deskripsi Umum
+
+Saat ini, lini produk Adaptive Information System for Charity Organization (AISCO) memiliki fitur PaymentGateway untuk menangani pembayaran donasi. Fitur ini bersifat opsional, sehingga produk yang di-generate tidak harus memiliki fitur ini. Fitur PaymentGateway hanya digunakan untuk simulasi, sehingga tidak harus terhubung ke payment gateway yang sebenarnya dan tidak perlu dibuat sebagai product line terpisah seperti yang dijelaskan di slide. Tugas ini bertujuan untuk meningkatkan fitur PaymentGateway dengan memecahnya menjadi beberapa fitur Payment (minimal tiga variasi). Anda diharapkan melakukan analisis requirement dengan meninjau platform donasi yang ada saat ini untuk memahami variasi pembayaran donasi yang ada di platform tersebut. Pengembangan fitur Payment akan dilakukan menggunakan metode Software Product Line Engineering (SPLE) berbasis Delta-Oriented Programming, dengan menggunakan bahasa Java yang menggunakan pattern Variability Modules for Java (VMJ). Tugas ini akan dikerjakan secara Kelompok dan Individu.
